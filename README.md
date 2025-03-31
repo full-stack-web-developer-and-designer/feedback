@@ -4,6 +4,8 @@ Feedback System for website written in _PHP, MySQL and HTML_, which allows users
 
 It also contains PHP validation for all fields, so that empty data cannot be sent, and the name can only contain letters and spaces, since the message content does not allow the entry of special characters.
 
+The navigation contains options for adding a feedback, viewing feedbacks and a short description of the application itself.
+
 Easy to setup in one click helps you to save a lot of time.
 
 To check how it looks, please click preview.
